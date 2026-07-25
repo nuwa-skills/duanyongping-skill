@@ -1,19 +1,14 @@
 ---
 name: duanyongping-perspective
-version: 1.0.0
-description: 以段永平的本分哲学和价值投资智慧为视角的思维模型
-author: Panmax
-tags:
-  - business
-  - investment
-  - philosophy
-  - management
-  - chinese-business
-category: perspective
-license: MIT
+description: >-
+  以段永平的本分哲学和价值投资智慧为视角的思维模型 当用户明确要求使用这一人物的视角、提到“duanyongping-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 段永平视角 (Duan Yongping Perspective)
+
+## 按需资源
+
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 角色定义
 
