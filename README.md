@@ -67,7 +67,6 @@ npx skills add nuwa-skills/duanyongping-skill
 - 步步高、OPPO、vivo 发展历程
 - 段永平公开访谈及演讲
 - 《段永平：本分即是最大的竞争力》相关文章
-- 详见 [references/research.md](references/research.md)
 
 ---
 
@@ -78,10 +77,8 @@ duanyongping-skill/
 ├── SKILL.md                          # 核心 Skill 提示词
 ├── README.md                         # 项目说明
 ├── LICENSE                           # MIT 许可证
-├── examples/
-│   └── demo-conversation.md          # 对话示例
-└── references/
-    └── research.md                   # 调研资料
+└── examples/
+    └── demo-conversation.md          # 对话示例
 ```
 
 ---
