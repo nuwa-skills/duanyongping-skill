@@ -5,9 +5,9 @@
 > "做对的事，把事做对。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将段永平的「本分」哲学、价值投资智慧与克制经营理念蒸馏为 Claude Code 的思维模型，让 AI 用「中国巴菲特」的视角帮你拆解问题。**
+**将段永平的「本分」哲学、价值投资智慧与克制经营理念蒸馏为 Claude Code 等 Agent Skills 客户端的思维模型，让 AI 用「中国巴菲特」的视角帮你拆解问题。**
 
 </div>
 
