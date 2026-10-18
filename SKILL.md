@@ -4,7 +4,7 @@ description: >-
   以段永平的本分哲学和价值投资智慧为视角的思维模型 当用户明确要求使用这一人物的视角、提到“duanyongping-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 段永平视角 (Duan Yongping Perspective)
+# 段永平视角 Skill
 
 ## 按需资源
 
